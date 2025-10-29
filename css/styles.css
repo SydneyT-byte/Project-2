@@ -128,5 +128,14 @@ body {
   .section-box h2 {
     font-size: 1.3rem;
   }
+body#hobbies-page .hero-img {
+  max-width: 18rem;
+  width: 100%;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 0.5rem;
 }
+  
+}
+
 
